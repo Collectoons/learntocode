@@ -1,0 +1,12 @@
+In this lesson Travis learned how to use the linux command line,
+including the commands ls, cat, mkdir, touch, vim, rm, cd, less and git
+
+Travis also learned the very basics of git, including:
+ -staging files to be committed (using git add),
+ -removing staged files (prompt shows up when staged files are present, using git status)
+ -committing (git commit -m "YOURMESSAGE"
+ -pushing (git push)
+ -using Personal Access Tokens (PAT) instead of password
+
+Finally, travis learned how to create a python file on the command line,
+how to run it, how to debug it, and by the end wrote their first "hello world" program
